@@ -22,4 +22,4 @@
 **[Contact](https://devevil.com/contact)** <br>
 **[Wiki](https://github.com/DevEvil99/DarkPlus-Discord-Theme/wiki)**
 
-**Made with 💜 by [DevEvil#8745](https://devevil.com/)**
+**Originally made with 💜 by [DevEvil#8745](https://devevil.com/), updated by 1frogmaster98**
