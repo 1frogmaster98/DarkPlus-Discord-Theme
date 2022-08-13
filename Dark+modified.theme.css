@@ -96,9 +96,53 @@
   color: #bb86fc;    
 }
 
+/* Spoiler fixes */
+.theme-dark .spoilerText-27bIiA {
+  color: #bb86fc;
+}
+
+.theme-dark .spoilerText-27bIiA.hidden-3B-Rum{
+  background-color: #660fd1;
+}
+.theme-dark .spoilerText-27bIiA.hidden-3B-Rum:hover{
+  background-color: #9843ff;
+}
+
 /* avatar resize */
-.avatar-3QF_VA {
-  margin-left: 200px;
-  width: 150%;
-  height: 150%;
+.avatar-2e8lTP.clickable-31pE3P {
+  filter: drop-shadow(0 0 5px);
+  color: var(--darkplus-sec);
+  width: 60px;
+  height: auto;
+}
+
+/*Message text configuration*/
+.cozy-VmLDNB .header-2jRmjb {
+  display: block;
+  position: relative;
+  padding-left: 15px;
+  line-height: 1.375rem;
+  min-height: 1.375rem;
+  color: var(--text-muted);
+  white-space: break-spaces;
+  word-wrap: pre-wrap;
+}
+
+.cozyMessage-1DWF9U .contents-2MsGLg > .markup-eYLPri:not(:empty) {
+  background-color: var(--darkplus-bg2);
+  display: inline-block;
+  max-width: 650px;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  margin: 0;
+  padding: 8px;
+  margin-left: 15px;                     
+  border-radius: 15px;
+  margin-bottom: 10px;
+}
+
+.scroller-2XLwLg {
+  margin-left:50px;
+  background-color:rgb(229, 255, 80);
 }
